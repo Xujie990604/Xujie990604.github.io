@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BDwTZuFy.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/大模型/本地化部署.md","filePath":"docs/大模型/本地化部署.md","lastUpdated":1756963935000}'),o={name:"docs/大模型/本地化部署.md"};function s(c,r,_,d,n,p){return a(),t("div")}const f=e(o,[["render",s]]);export{m as __pageData,f as default};
